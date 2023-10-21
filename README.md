@@ -11,7 +11,7 @@
 | Week | Days | Activities |
 |------|------|------------|
 | 1    | 1-2  | Review the [exam guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf). |
-| 1    | 3-4  | Get to know the [types of questions](https://explore.skillbuilder.aws/learn/course/14050/Exam%2520Prep%2520Official%2520Question%2520Set%253A%2520AWS%2520Certified%2520Cloud%2520Practitioner%2520%28CLF-C02%2520-%2520English%29). |
+| 1    | 3-4  | Get to know the [types of questions]([https://explore.skillbuilder.aws/learn/course/14050/Exam%2520Prep%2520Official%2520Question%2520Set%253A%2520AWS%2520Certified%2520Cloud%2520Practitioner%2520%28CLF-C02%2520-%2520English%29](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english)). |
 | 1    | 5-7  | Start learning about [exam topics](https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials). |
 | 2-3  | 8-14 | Continue with [exam topics](https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials). |
 | 2-3  | 15-21| Work through the [AWS Cloud Quest: Cloud Practitioner course](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner). |
